@@ -1,0 +1,33 @@
+---
+title: "aularepro"
+author: "Janaina da Fonseca"
+date: "2024-08-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Foto do meu computador](C:\Users\Janaina da Fonseca\Pictures\20230602_165338.jpg)
+
+
+
+![Foto da internet](https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2023/12/19/2124153488-gato.jpg)
+
+# Título 1
+
+## Título 2
+
+### Título 3
+
+**negrito**
+
+*italico*
+
+
+- Item 1
+- Item 2
+    - Subitem 2.1
+      - Subitem 2.1.1
+        - Subitem 2.1.1.1
